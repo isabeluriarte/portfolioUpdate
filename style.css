@@ -1,0 +1,35 @@
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    color: black;
+    font-family: 'Gothic A1', sans-serif;
+
+}
+
+.navbar-brand {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 28px;
+}
+
+.nav-link {
+    font-size: 13px;
+}
+
+.links {
+    color: black;
+}
+
+a img:hover {
+    opacity: 0.5;
+}
+
+.footer {
+    margin-top: auto;
+    color: grey;
+    font-size: 12px;
+}
